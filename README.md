@@ -1,3 +1,5 @@
 # BDA594-Uma
 Umadevi Betageri.   
-[BDA Class URL](https://sdsu.instructure.com/courses/79732 "LCO") 
+[BDA Class URL](https://sdsu.instructure.com/courses/79732) 
+  
+Define BDA:  
